@@ -1,0 +1,15 @@
+kafka:
+  # 主题
+  topic: cities
+
+
+spring:
+  kafka:
+    # 节点
+    bootstrap-servers: 127.0.0.1:9092
+    # 生产者
+#    producer:
+
+    # 消费者
+    consumer:
+        group-id: group0
