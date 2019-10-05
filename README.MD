@@ -7,3 +7,4 @@
 
 ## 参考资料
 [深入理解Kafka](https://book.douban.com/subject/30437872/)
+[非常详细的官方文档](http://kafka.apache.org/quickstart)
